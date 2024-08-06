@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1500,
+      "createdAt": "01/05/2024"
+    },
+    {
+      "id": 2,
+      "description": "Mensalidade Faculdade",
+      "type": "outcome",
+      "category": "Mensalidade",
+      "price": 300,
+      "createdAt": "07/05/2024"
+    },
+    {
+      "id": 3,
+      "description": "Manutenção Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 500,
+      "createdAt": "08/05/2024"
+    },
+    {
+      "description": "Desenvolvimento App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-05-08T01:02:27.973Z",
+      "id": 4
+    },
+    {
+      "description": "Internet",
+      "price": 250,
+      "category": "Fatura",
+      "type": "outcome",
+      "createdAt": "2024-05-08T01:08:17.415Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurt",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-05-08T01:22:35.550Z",
+      "id": 6
+    },
+    {
+      "description": "Churras",
+      "price": 10,
+      "category": "Alimento",
+      "type": "outcome",
+      "createdAt": "2024-05-15T13:54:01.371Z",
+      "id": 7
+    },
+    {
+      "description": "Mensalidade Faculdade",
+      "price": 350,
+      "category": "Mensalidade",
+      "type": "outcome",
+      "createdAt": "2024-07-16T20:43:58.733Z",
+      "id": 8
+    },
+    {
+      "description": "Freelance - Aplicação Web",
+      "price": 1500,
+      "category": "Dev",
+      "type": "income",
+      "createdAt": "2024-07-16T20:44:57.202Z",
+      "id": 9
+    }
+  ]
+}
